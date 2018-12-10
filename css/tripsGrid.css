@@ -1,0 +1,1 @@
+.grid-item { width: 32%;}.grid-item--width2 { width: 60%; }.Lokacija{ text-align: center; }.description{ text-align: left; }@media (max-width: 768px) {	.grid-item { width: 100%;}	.grid-item--width2 { width: 60%; }}@media (min-width: 768px) and (max-width: 991px) {	.grid-item { width: 50%;}	.grid-item--width2 { width: 60%; }}

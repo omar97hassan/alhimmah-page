@@ -1,0 +1,31 @@
+[27-Feb-2017 23:20:35 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'map' (T_STRING), expecting ',' or ';' in /home/hasakba/public_html/alhimmah/map.php on line 33
+[27-Feb-2017 23:20:40 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'map' (T_STRING), expecting ',' or ';' in /home/hasakba/public_html/alhimmah/map.php on line 33
+[02-Mar-2017 01:43:14 Europe/Sarajevo] PHP Warning:  include(/php/head.php): failed to open stream: No such file or directory in /home/hasakba/public_html/alhimmah/accomodation.php on line 16
+[02-Mar-2017 01:43:14 Europe/Sarajevo] PHP Warning:  include(): Failed opening '/php/head.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hasakba/public_html/alhimmah/accomodation.php on line 16
+[02-Mar-2017 01:43:14 Europe/Sarajevo] PHP Warning:  include(/php/first.php): failed to open stream: No such file or directory in /home/hasakba/public_html/alhimmah/accomodation.php on line 24
+[02-Mar-2017 01:43:14 Europe/Sarajevo] PHP Warning:  include(): Failed opening '/php/first.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hasakba/public_html/alhimmah/accomodation.php on line 24
+[02-Mar-2017 01:43:14 Europe/Sarajevo] PHP Warning:  include(/php/last.php): failed to open stream: No such file or directory in /home/hasakba/public_html/alhimmah/accomodation.php on line 95
+[02-Mar-2017 01:43:14 Europe/Sarajevo] PHP Warning:  include(): Failed opening '/php/last.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/hasakba/public_html/alhimmah/accomodation.php on line 95
+[17-May-2017 22:32:18 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected '$txarbs' (T_VARIABLE) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 61
+[17-May-2017 22:32:23 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected '$txarbs' (T_VARIABLE) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 61
+[18-May-2017 12:41:27 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 33
+[18-May-2017 12:41:30 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'text' (T_STRING) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 33
+[08-Jun-2017 12:48:30 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'text' (T_STRING), expecting ',' or ';' in /home/hasakba/public_html/alhimmah/trips.php on line 27
+[16-Jun-2017 01:30:20 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:50:58 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:51:02 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:53:34 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:53:36 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:53:37 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:53:39 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:54:03 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:54:04 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:54:05 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 01:54:05 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 10:07:16 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/trips.php on line 1
+[16-Jun-2017 10:15:48 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 1
+[16-Jun-2017 10:15:50 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 1
+[16-Jun-2017 10:15:51 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'session_start' (T_STRING) in /home/hasakba/public_html/alhimmah/php/veryfirst.php on line 1
+[16-Jun-2017 10:16:04 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/hasakba/public_html/alhimmah/php/last.php on line 1
+[16-Jun-2017 10:16:27 Europe/Sarajevo] PHP Parse error:  syntax error, unexpected ''<div class="container"><div c' (T_CONSTANT_ENCAPSED_STRING) in /home/hasakba/public_html/alhimmah/accomodation.php on line 1
+[16-Jun-2017 10:16:56 Europe/Sarajevo] PHP Fatal error:  Call to undefined function phpinclude() in /home/hasakba/public_html/alhimmah/rent-a-car.php on line 1
